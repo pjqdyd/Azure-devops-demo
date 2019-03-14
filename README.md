@@ -1,5 +1,5 @@
 # Azure-devops-demo [![Build Status](https://dev.azure.com/1909025079/azure-devops/_apis/build/status/azure-devops-Maven-CI?branchName=master)](https://dev.azure.com/1909025079/azure-devops/_build/latest?definitionId=4&branchName=master)<br>
-### 使用[azure devops](https://azure.microsoft.com/zh-tw/services/devops/)结和github自动连续集成部署的案例spring boot项目
+### 使用[azure devops](https://azure.microsoft.com/zh-cn/services/devops/)结和github自动连续集成部署的案例spring boot项目
 (此项目只是一个普通的springboot web项目,并未引入其他第三方依赖)
 
 ### 完整的[教程步骤请点这里看我的简书文章](https://www.jianshu.com/p/6eb5e388c112),或直接搜索我的简书:pjqdyd 进入主页查看文章.
