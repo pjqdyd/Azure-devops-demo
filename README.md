@@ -29,7 +29,7 @@
 **第2步**: 
 需要有一个[Azure Devops](https://azure.microsoft.com/zh-cn/services/devops/)的账号,这个账号使用你的微软账户登录/邮箱注册都行, 且是免费的.
 
-注册登陆后, 你需要创建一个组织和项目(例如我的组织190...项目名azure-devops):![](https://upload-images.jianshu.io/upload_images/14511997-09be0a189ecc2723.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+注册登陆后, 你需要创建一个组织和项目(例如我的组织190...项目名azure-devops,且是public的):![](https://upload-images.jianshu.io/upload_images/14511997-09be0a189ecc2723.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **到此我们的准备工作已经做好**
 
