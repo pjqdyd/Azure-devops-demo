@@ -1,12 +1,12 @@
 # Azure-devops-demo [![Build Status](https://dev.azure.com/1909025079/azure-devops/_apis/build/status/azure-devops-Maven-CI?branchName=master)](https://dev.azure.com/1909025079/azure-devops/_build/latest?definitionId=4&branchName=master)<br>
 ### 使用[azure devops](https://azure.microsoft.com/zh-cn/services/devops/)结和github自动连续集成部署的案例spring boot项目
-(此项目只是一个普通的springboot web项目,并未引入其他第三方依赖)
+(此项目只是一个初始化的普通的springboot start web项目，用来测试的,并未引入任何其他第三方依赖)
 
 ### 完整的[教程步骤请点这里看我的简书文章](https://www.jianshu.com/p/6eb5e388c112),或直接搜索我的简书:pjqdyd 进入主页查看文章.
 
 -----可能是最详细的Az Devops部署java项目的文章,如果你觉得还行,就点点**star**吧 ^ @  ^----
 
-**看完文章,我们就可实现在本地更新代码,修改成一个稳定的版本,直接push到github的主分支后**(或通过dev分支合并到主分支)**,我们就可以回家睡觉了,而我们此次版本的修改会通过Azure Devops自动集成发布,这样所有连接我们的服务的请求就都有了这次新的更新.**
+**看完文章,我们就可实现在本地更新一次代码,修改成一个稳定的版本,push到github的主分支后**(或通过dev分支合并到主分支)**,然后我们就可以回家睡觉了,而我们此次版本的修改会通过Azure Devops自动集成发布,这样所有连接我们的服务的请求就都有了这次新的更新.**
 
 **几张截图:**
 
